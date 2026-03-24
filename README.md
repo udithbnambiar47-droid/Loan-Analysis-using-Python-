@@ -1,2 +1,2 @@
-# loan-Analysis-using-Python-
+# Loan-Analysis-using-Python-
 currently working on my First Python Project using jupyter notebook 
