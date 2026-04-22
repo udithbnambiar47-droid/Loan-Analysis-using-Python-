@@ -1,8 +1,10 @@
 # Loan-Analysis-using-Python
-## 👨‍💻 About Me
+## 🌟 About Me
 
-I am a finance student passionate about data analytics and Python.  
-Currently building real-world projects like loan analysis and fraud detection.
+👋 Hi, I'm Udith  
+👀 Interested in Data Analytics & Finance  
+🌱 Currently learning Python & Machine Learning  
+📫 Reach me: https://linkedin.com/in/your-link
 
 🎯 Goal: Become a Data Analyst in Finance Domain
 ## 🛠️ Tech Stack
