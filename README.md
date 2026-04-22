@@ -4,7 +4,7 @@
 👋 Hi, I'm Udith  
 👀 Interested in Data Analytics & Finance  
 🌱 Currently learning Python & Machine Learning  
-📫 Reach me: https://linkedin.com/in/your-link
+📫 Reach me: https://www.linkedin.com/in/udith-b-nambiar
 
 🎯 Goal: Become a Data Analyst in Finance Domain
 ## 🛠️ Tech Stack
