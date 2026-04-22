@@ -11,3 +11,13 @@ Currently building real-world projects like loan analysis and fraud detection.
 - NumPy
 - Matplotlib
 - Jupyter Notebook
+---
+
+# 🎨 2. Add GitHub Badges (Makes it Look Professional)
+
+Use badges at the top:
+
+```md
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-yellow)
