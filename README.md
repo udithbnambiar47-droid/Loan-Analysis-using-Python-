@@ -116,6 +116,7 @@ To contribute to research projects in Finance, Analytics, and Artificial Intelli
 
 ## 🛠️ Tech Stack
 ![Finance](https://img.shields.io/badge/Finance-0A66C2?style=for-the-badge&logo=google-analytics&logoColor=white)
+![Business Analytics](https://img.shields.io/badge/Business_Analytics-1565C0?style=for-the-badge&logo=googleanalytics&logoColor=white)
 ![Investment Research](https://img.shields.io/badge/Investment_Research-2E7D32?style=for-the-badge&logo=tradingview&logoColor=white)
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-6A1B9A?style=for-the-badge&logo=robotframework&logoColor=white)
