@@ -159,7 +159,6 @@ I am interested in collaborating on:
 ## 📫 Connect
 
 Feel free to connect with me regarding research opportunities, academic collaborations, data analytics projects, or AI applications in finance.
-## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/udith-b-nambiar/)
 [![GitHub](https://img.shields.io/badge/GitHub-udithbnambiar47--droid-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/udithbnambiar47-droid)
