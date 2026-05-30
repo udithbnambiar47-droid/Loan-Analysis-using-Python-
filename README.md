@@ -115,6 +115,11 @@ To contribute to research projects in Finance, Analytics, and Artificial Intelli
 ---
 
 ## 🛠️ Tech Stack
+![Finance](https://img.shields.io/badge/Finance-0A66C2?style=for-the-badge&logo=google-analytics&logoColor=white)
+![Investment Research](https://img.shields.io/badge/Investment_Research-2E7D32?style=for-the-badge&logo=tradingview&logoColor=white)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-6A1B9A?style=for-the-badge&logo=robotframework&logoColor=white)
+
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -131,6 +136,9 @@ To contribute to research projects in Finance, Analytics, and Artificial Intelli
 
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-8E24AA?style=for-the-badge&logo=pytorch&logoColor=white)
+
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
