@@ -10,27 +10,8 @@ I am actively developing technical and analytical skills to build data-driven so
 
 ---
 
-## 🎯 Research Interests
+## 🛠️ Tech Stack
 
-* Financial Analytics
-* Investment Research
-* Quantitative Finance
-* Machine Learning in Finance
-* Business Analytics
-* Financial Automation
-* Risk Analytics
-* Agentic AI Systems
-* AI-Powered Decision Making
-* Financial Markets Research
-
----
-
-## 🚀 Career Objective
-
-To contribute to research projects in Finance, Analytics, and Artificial Intelligence while developing intelligent systems that automate financial decision-making and generate actionable business insights.
-
----
- ## 🛠️ Tech Stack
 ![Finance](https://img.shields.io/badge/Finance-0A66C2?style=for-the-badge&logo=google-analytics&logoColor=white)
 ![Business Analytics](https://img.shields.io/badge/Business_Analytics-1565C0?style=for-the-badge&logo=googleanalytics&logoColor=white)
 ![Investment Research](https://img.shields.io/badge/Investment_Research-2E7D32?style=for-the-badge&logo=tradingview&logoColor=white)
@@ -66,6 +47,25 @@ Feel free to connect with me regarding research opportunities, academic collabor
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/udith-b-nambiar/)
 [![GitHub](https://img.shields.io/badge/GitHub-udithbnambiar47--droid-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/udithbnambiar47-droid)
+---
+
+## 🚀 Career Objective
+
+To contribute to research projects in Finance, Analytics, and Artificial Intelligence while developing intelligent systems that automate financial decision-making and generate actionable business insights.
+
+---
+## 🎯 Research Interests
+
+* Financial Analytics
+* Investment Research
+* Quantitative Finance
+* Machine Learning in Finance
+* Business Analytics
+* Financial Automation
+* Risk Analytics
+* Agentic AI Systems
+* AI-Powered Decision Making
+* Financial Markets Research
 
 ## 📚 Current Learning Path
 
@@ -134,10 +134,6 @@ I am interested in collaborating on:
 * Machine Learning Applications in Finance
 
 ---
-
-## 📫 Connect
-
-Feel free to connect with me regarding research opportunities, academic collaborations, data analytics projects, or AI applications in finance.
 
 **Udith**
 *BBA Finance Graduate | Data Analytics Student | Aspiring Finance Researcher | AI & Machine Learning Enthusiast*
