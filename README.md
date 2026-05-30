@@ -128,7 +128,7 @@ To contribute to research projects in Finance, Analytics, and Artificial Intelli
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
-![Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white](https://img.shields.io)
+
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
