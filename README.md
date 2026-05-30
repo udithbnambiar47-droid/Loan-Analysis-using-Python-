@@ -159,7 +159,9 @@ I am interested in collaborating on:
 ## 📫 Connect
 
 Feel free to connect with me regarding research opportunities, academic collaborations, data analytics projects, or AI applications in finance.
+## 📫 Connect
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/udith-b-nambiar/)
 **Udith**
 *BBA Finance Graduate | Data Analytics Student | Aspiring Finance Researcher | AI & Machine Learning Enthusiast*
 
